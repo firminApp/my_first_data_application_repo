@@ -25,7 +25,7 @@ def load_(dataframe, title, key) :
         st.dataframe(dataframe)
 
 # définir quelques styles liés aux box
-st.markdown('''<style> .stButton>button {
+st.markdown('''<style> .stButton>button {P
     font-size: 12px;
     height: 3em;
     width: 25em;
